@@ -1,0 +1,21 @@
+Total number of lines: 4
+Total number of words: 23
+Word Frequencies:
+this: 1
+is: 1
+a: 1
+sample: 2
+text: 1
+file: 2
+it: 1
+contains: 1
+some: 2
+words: 3
+and: 1
+punctuation: 1
+are: 1
+repeated: 1
+test: 1
+end: 1
+of: 1
+the: 1

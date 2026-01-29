@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains some words, and some punctuation!
+Words are repeated: sample, words, test.
+End of the file.
